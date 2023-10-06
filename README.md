@@ -21,3 +21,5 @@ Pero en esta red no solo puedes visionar contenido profesional, sino también de
 - **Interacción y comunidad:** Los usuarios pueden comentar, dar "me gusta" y compartir videos, lo que fomenta la interacción y la construcción de comunidades en línea.
 
 - **Música:** Artistas y sellos discográficos comparten videos musicales y promocionan su música, y los usuarios pueden crear listas de reproducción personalizadas.
+
+<img src="Captura de pantalla 2023-10-06 225456.png" alt="Logo" width="400" height="400" />
