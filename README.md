@@ -22,4 +22,4 @@ Pero en esta red no solo puedes visionar contenido profesional, sino también de
 
 - **Música:** Artistas y sellos discográficos comparten videos musicales y promocionan su música, y los usuarios pueden crear listas de reproducción personalizadas.
 
-<img src="Captura de pantalla 2023-10-06 225456.png" alt="Logo" width="400" height="400" />
+<img src="Captura de pantalla 2023-10-06 225456.png" alt="Logo" width="700" height="400" />
