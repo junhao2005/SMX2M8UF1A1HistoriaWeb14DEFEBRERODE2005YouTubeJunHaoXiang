@@ -4,6 +4,7 @@
 Pero en esta red no solo puedes visionar contenido profesional, sino también de cualquier tipo de usuarios. Todo el mundo puede crear una cuenta en ella y ofrecer sus propios vídeos al resto del mundo.
 ## Origen
 **YouTube** fue fundado el **14 de febrero de 2005** por ex empleados de [PayPal](https://es.wikipedia.org/wiki/PayPal "PayPal"): [Chad Hurley](https://es.wikipedia.org/wiki/Chad_Hurley "Chad Hurley"), [Steve Chen](https://es.wikipedia.org/wiki/Steve_Chen_(YouTube) "Steve Chen") y [Jawed Karim](https://es.wikipedia.org/wiki/Jawed_Karim "Jawed Karim"). Google adquirió YouTube en noviembre de 2006 por $1.65 mil millones de dólares en acciones. Desde entonces, YouTube se ha convertido en una plataforma líder para cargar y compartir videos en línea, con una gran diversidad de contenido y funciones.
+<img src="https://github.com/junhao2005/SMX2M8UF1A1HistoriaWeb14DEFEBRERODE2005YouTubeJunHaoXiang/commit/12ecab00aff7652421f8ec4039b2a5ab6c15688b" alt="Logo" width="400" height="400" />
 ## ¿Para qué sirve?
 **YouTube** es una plataforma de video en línea que permite a las personas cargar, ver y compartir una amplia variedad de contenido en video. Se utiliza para:
 - **Entretenimiento:** Los usuarios pueden ver películas, programas de televisión, videos musicales, comedia y mucho más, lo que lo convierte en una fuente principal de entretenimiento en línea.
